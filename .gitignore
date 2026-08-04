@@ -1,8 +1,0 @@
-# Ignorar pastas de compilação do Visual Studio
-bin/
-obj/
-
-# Ignorar dados locais do VS e VS Code
-.vs/
-.vscode/
-.gitignore
