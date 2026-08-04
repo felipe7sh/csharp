@@ -15,6 +15,9 @@ class Program
         Console.WriteLine($"===== Sistema De Cadastro de Livro ======");
         Console.WriteLine("Bem Vindo ao Sistema de cadastro de livros!");
         Console.Write("Deseja cadastrar um livro? S ou N: ");
+
+        List<Livro> listaLivros = new List<Livro>();
+
         string resposta = Console.ReadLine(); 
         while (resposta.ToLower() == "s" ) {
 
@@ -29,6 +32,7 @@ class Program
             novolivro.genero = Console.ReadLine();
             novolivro.Exibirlivro();
 
+            listaLivros.Add(novolivro);
             Console.Write("Deseja continuar a cadastrar? S ou N : ");
             string rp = Console.ReadLine();
 
@@ -38,6 +42,14 @@ class Program
             } else
             {
                 break;
+            }
+        }
+
+        Console.WriteLine("\n\n ===== LISTA DE LIVROS ==== \n\n");
+        if (listaLivros.Count > 0)
+        {
+            foreach (Livro livroAtual in listaLivros) {
+                livroAtual.Exibirlivro();
             }
         }
     }
