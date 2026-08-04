@@ -3,7 +3,7 @@
     public string nome, autor, genero;
     public void Exibirlivro()
     {
-        Console.WriteLine($"[LIVRO CADASTRADO]: Nome: {nome}, Autor: {autor}, Genero: {genero}");
+        Console.WriteLine($"Nome: {nome}, Autor: {autor}, Genero: {genero}");
     }
 }
 
@@ -46,12 +46,15 @@ class Program
         }
 
         Console.WriteLine("\n\n ===== LISTA DE LIVROS ==== \n\n");
-        if (listaLivros.Count > 0)
-        {
+        if (listaLivros.Count > 0) {
             foreach (Livro livroAtual in listaLivros) {
                 livroAtual.Exibirlivro();
             }
+        } else { 
+            Console.WriteLine("Nenhum livro cadastrado");
         }
+
+        Console.WriteLine("FIM DA APLICAÇAO");
     }
 }
 
