@@ -10,11 +10,14 @@ Bem-vindo ao meu repositório de estudos e práticas em **C#**! Este espaço foi
 
 ## 📂 Estrutura do Repositório
 
-O repositório está organizado em projetos práticos desenvolvidos dentro do ecossistema do Visual Studio:
+Este repositório contém uma coleção de aplicações de console e projetos práticos focados na evolução contínua da minha lógica e arquitetura de software. Os códigos abordam tópicos como:
 
-*   **`CadastroProdutos`**: Sistema focado no gerenciamento, listagem e persistência de dados de produtos.
-*   **`POO_aluno`**: Projeto voltado para a prática de Programação Orientada a Objetos (POO), modelando o cenário de gerenciamento de alunos.
-*   **`cadastroLivroInput`**: Aplicação de console interativa para captura e validação de dados na entrada de livros.
+*   **Fundamentos da Linguagem:** Estruturas de repetição, condicionais e manipulação de tipos de dados.
+*   **Programação Orientada a Objetos (POO):** Classes, objetos, encapsulamento, herança e polimorfismo.
+*   **Manipulação de Entradas/Saídas:** Validação de inputs do usuário via console.
+*   **Lógica de Negócios:** Sistemas simulados de cadastros, gerenciamento e persistência temporária de dados.
+
+*Novos projetos de estudo são adicionados à raiz do repositório conforme avanço nos módulos de aprendizado.*
 
 ---
 
@@ -30,7 +33,7 @@ O repositório está organizado em projetos práticos desenvolvidos dentro do ec
 
 Se você deseja testar ou visualizar estes códigos diretamente no seu ambiente do Visual Studio, siga o passo a passo:
 
-### Prerequisitos
+### Pré-requisitos
 *   Ter o [Visual Studio](https://visualstudio.microsoft.com/) instalado com a carga de trabalho de **Desenvolvimento para desktop com .NET** selecionada.
 
 ### Passo a Passo
@@ -42,10 +45,11 @@ Se você deseja testar ou visualizar estes códigos diretamente no seu ambiente 
 2. **Abrir o Projeto:**
    * Abra o **Visual Studio**.
    * Clique em **"Abrir um projeto ou uma solução"**.
-   * Navegue até a pasta clonada e selecione o arquivo de solução (`.sln`) ou abra o arquivo da aplicação de console desejada (ex: dentro de `CadastroProdutos`).
+   * Navegue até a pasta clonada e selecione o arquivo de solução (`.sln`) ou abra a pasta específica do projeto que deseja analisar.
 
 3. **Executar:**
-   * Pressione a tecla **`F5`** ou clique no botão de **Play (Iniciar)** na barra de ferramentas superior do Visual Studio para rodar o aplicativo de console.
+   * Defina o projeto desejado como projeto de inicialização.
+   * Pressione a tecla **`F5`** ou clique no botão de **Play (Iniciar)** na barra de ferramentas superior para rodar o aplicativo.
 
 ---
 
