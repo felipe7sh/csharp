@@ -1,0 +1,14 @@
+E:\Felipe Sá\POO_aluno\POO_aluno\bin\Debug\net10.0\POO_aluno.exe
+E:\Felipe Sá\POO_aluno\POO_aluno\bin\Debug\net10.0\POO_aluno.deps.json
+E:\Felipe Sá\POO_aluno\POO_aluno\bin\Debug\net10.0\POO_aluno.runtimeconfig.json
+E:\Felipe Sá\POO_aluno\POO_aluno\bin\Debug\net10.0\POO_aluno.dll
+E:\Felipe Sá\POO_aluno\POO_aluno\bin\Debug\net10.0\POO_aluno.pdb
+E:\Felipe Sá\POO_aluno\POO_aluno\obj\Debug\net10.0\POO_aluno.GeneratedMSBuildEditorConfig.editorconfig
+E:\Felipe Sá\POO_aluno\POO_aluno\obj\Debug\net10.0\POO_aluno.AssemblyInfoInputs.cache
+E:\Felipe Sá\POO_aluno\POO_aluno\obj\Debug\net10.0\POO_aluno.AssemblyInfo.cs
+E:\Felipe Sá\POO_aluno\POO_aluno\obj\Debug\net10.0\POO_aluno.csproj.CoreCompileInputs.cache
+E:\Felipe Sá\POO_aluno\POO_aluno\obj\Debug\net10.0\POO_aluno.dll
+E:\Felipe Sá\POO_aluno\POO_aluno\obj\Debug\net10.0\refint\POO_aluno.dll
+E:\Felipe Sá\POO_aluno\POO_aluno\obj\Debug\net10.0\POO_aluno.pdb
+E:\Felipe Sá\POO_aluno\POO_aluno\obj\Debug\net10.0\POO_aluno.genruntimeconfig.cache
+E:\Felipe Sá\POO_aluno\POO_aluno\obj\Debug\net10.0\ref\POO_aluno.dll
