@@ -36,7 +36,7 @@ Se você deseja testar ou visualizar estes códigos diretamente no seu ambiente 
 ### Passo a Passo
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/felipe7sh/csharp.git
    ```
 
 2. **Abrir o Projeto:**
@@ -54,4 +54,4 @@ Se você deseja testar ou visualizar estes códigos diretamente no seu ambiente 
 Desenvolvido por **Felipe** 💻  
 Sinta-se à vontade para explorar o código, dar sugestões ou se conectar comigo!
 
-[![GitHub](https://shields.io)](https://github.com)
+[![GitHub](https://shields.io)](https://github.com/felipe7sh)
