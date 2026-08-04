@@ -1,11 +1,11 @@
 ﻿class Veiculo
 {
-    public string Fabricante, Marca, Combustível;
-    public int ano, portas;
-    public double quilometragem;
+    public string Fabricante, Marca, Combustivel;
+    public int Ano, Portas;
+    public double Quilometragem;
     public void ExibirVeiculo()
     {
-        Console.WriteLine($"Carro: {Marca}, Fabricante: {Fabricante}, Combustível: {Combustível}, Ano {ano}, Quilometragem {quilometragem}, Portas {portas}");
+        Console.WriteLine($"Carro: {Marca}, Fabricante: {Fabricante}, Combustível: {Combustivel}, Ano {Ano}, Quilometragem {Quilometragem}, Portas {Portas}");
     }
 }
 
@@ -29,16 +29,16 @@ class Program
             novoVeiculo.Fabricante = Console.ReadLine();
 
             Console.Write("Insira o Combustivel do Veiculo: ");
-            novoVeiculo.Combustível = Console.ReadLine();
+            novoVeiculo.Combustivel = Console.ReadLine();
 
             Console.Write("Insira o Ano do Veiculo: ");
-            novoVeiculo.ano = int.Parse(Console.ReadLine());
+            novoVeiculo.Ano = int.Parse(Console.ReadLine());
 
             Console.Write("Insira o Quilometragem do Veiculo: ");
-            novoVeiculo.quilometragem = double.Parse(Console.ReadLine());
+            novoVeiculo.Quilometragem = double.Parse(Console.ReadLine());
 
             Console.Write("Insira quantas portas o Veiculo tem: ");
-            novoVeiculo.portas = int.Parse(Console.ReadLine());
+            novoVeiculo.Portas = int.Parse(Console.ReadLine());
 
             listaVeiculos.Add(novoVeiculo);
             Console.Write("Deseja continuar a cadastrar veiculos? S ou N : ");
