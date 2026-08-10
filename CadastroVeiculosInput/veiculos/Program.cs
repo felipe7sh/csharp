@@ -1,21 +1,20 @@
 ﻿class Veiculo
 {
-    public string Fabricante, Marca, Combustivel;
-    public int Ano, Portas;
+    public string Marca, Modelo, Combustivel, Cor, Placa, Cilindrada;
+    public int Ano, Portas, Cv;
     public double Quilometragem;
     public void ExibirVeiculo()
     {
-        Console.WriteLine($"Carro: {Marca}, Fabricante: {Fabricante}, Combustível: {Combustivel}, Ano {Ano}, Quilometragem {Quilometragem}, Portas {Portas}");
+        Console.WriteLine($"Marca: {Marca}\nModelo: {Modelo}\nCombustível: {Combustivel}\nCor: {Cor}\nPlaca: {Placa}\nAno: {Ano}\nQuilometragem: {Quilometragem} km\nPortas: {Portas}\nCilindrada: {Cilindrada}L\nPotência: {Cv} CV");
     }
 }
-
 
 class Program
 {
     static void Main(String[] args)
     {
         Console.WriteLine($"===== Sistema De Cadastro de Veiculo ======");
-        Console.Write("Deseja cadastrar um veiculo? S ou N: ");
+        Console.Write("\nDeseja cadastrar um veiculo? S ou N: \n");
 
         List<Veiculo> listaVeiculos = new List<Veiculo>();
 
@@ -25,11 +24,17 @@ class Program
             Console.Write("Insira o Marca do Veiculo: ");
             novoVeiculo.Marca = Console.ReadLine();
 
-            Console.Write("Insira o Fabricante do Veiculo: ");
-            novoVeiculo.Fabricante = Console.ReadLine();
+            Console.Write("Insira o Modelo do Veiculo: ");
+            novoVeiculo.Modelo = Console.ReadLine();
 
             Console.Write("Insira o Combustivel do Veiculo: ");
             novoVeiculo.Combustivel = Console.ReadLine();
+
+            Console.Write("Insira o Cor do Veiculo: ");
+            novoVeiculo.Cor = Console.ReadLine(); 
+
+            Console.Write("Insira a Placa do Veiculo: ");
+            novoVeiculo.Placa = Console.ReadLine();
 
             Console.Write("Insira o Ano do Veiculo: ");
             novoVeiculo.Ano = int.Parse(Console.ReadLine());
@@ -40,8 +45,14 @@ class Program
             Console.Write("Insira quantas portas o Veiculo tem: ");
             novoVeiculo.Portas = int.Parse(Console.ReadLine());
 
+            Console.Write("Insira a cilindrada do veículo (em litros): ");
+            novoVeiculo.Cilindrada = Console.ReadLine();
+
+            Console.Write("Insira a Potencia do veículo: ");
+            novoVeiculo.Cv = int.Parse(Console.ReadLine());
+
             listaVeiculos.Add(novoVeiculo);
-            Console.Write("Deseja continuar a cadastrar veiculos? S ou N : ");
+            Console.Write("\nDeseja continuar a cadastrar veiculos? S ou N : \n");
             string rp = Console.ReadLine();
 
             if (rp.ToLower() == "s")
@@ -67,7 +78,6 @@ class Program
             Console.WriteLine("Nenhum veiculo cadastrado");
         }
 
-        Console.WriteLine("FIM DA APLICAÇAO");
+        Console.WriteLine("\nFIM DA APLICAÇAO");
     }
 }
-
