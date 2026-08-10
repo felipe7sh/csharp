@@ -19,7 +19,8 @@ class Program
         List<Veiculo> listaVeiculos = new List<Veiculo>();
 
         string resposta = Console.ReadLine();
-        while (resposta.ToLower() == "s") {
+        while (resposta.ToLower() == "s")
+        {
             Veiculo novoVeiculo = new Veiculo();
             Console.Write("Insira o Marca do Veiculo: ");
             novoVeiculo.Marca = Console.ReadLine();
@@ -31,7 +32,7 @@ class Program
             novoVeiculo.Combustivel = Console.ReadLine();
 
             Console.Write("Insira o Cor do Veiculo: ");
-            novoVeiculo.Cor = Console.ReadLine(); 
+            novoVeiculo.Cor = Console.ReadLine();
 
             Console.Write("Insira a Placa do Veiculo: ");
             novoVeiculo.Placa = Console.ReadLine();
@@ -68,7 +69,7 @@ class Program
         Console.WriteLine("\n\n ===== LISTA DE VEICULOS ==== \n\n");
         if (listaVeiculos.Count > 0)
         {
-            foreach (Veiculo veiculoAtual  in listaVeiculos)
+            foreach (Veiculo veiculoAtual in listaVeiculos)
             {
                 veiculoAtual.ExibirVeiculo();
             }
