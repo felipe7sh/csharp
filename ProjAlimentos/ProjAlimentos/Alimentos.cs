@@ -11,7 +11,7 @@ namespace ProjAlimentos
 
         public void ExibirAlimentos()
         {
-            Console.WriteLine($"Nome: {Nome}");
+            Console.WriteLine($"\nNome: {Nome}");
             Console.WriteLine($"Marca: {Marca}");
             Console.WriteLine($"Categoria: {Categoria}"); 
             Console.WriteLine($"Peso: {Peso}");

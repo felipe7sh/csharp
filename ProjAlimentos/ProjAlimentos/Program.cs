@@ -4,7 +4,7 @@ Console.ForegroundColor = ConsoleColor.Blue;
 Console.WriteLine("=== SISTEMA DE CADASTRO DE ALIMENTOS ===");
 Console.ResetColor();
 
-Console.WriteLine("Deseja cadastrar Alimentos (s/n)?");
+Console.Write("Deseja cadastrar Alimentos? (s/n): ");
 
 List<Alimentos> estoque = new List<Alimentos>();
 
@@ -13,7 +13,7 @@ while (resposta.ToLower() == "s")
 {
     Alimentos novoAlimento = new Alimentos();
 
-    Console.WriteLine("Digite o nome do alimento: ");
+    Console.WriteLine("\nDigite o nome do alimento: ");
     novoAlimento.Nome = Console.ReadLine();
 
     Console.WriteLine("Digite a marca do alimento: ");
@@ -22,7 +22,7 @@ while (resposta.ToLower() == "s")
     Console.WriteLine("Digite a categoria do alimento: ");
     novoAlimento.Categoria = Console.ReadLine();
 
-    Console.WriteLine("Digite o peso do alimento: ");
+    Console.WriteLine("Digite o peso do alimento (Em Gramas): ");
     novoAlimento.Peso = Console.ReadLine();
 
     Console.WriteLine("Digite a validade do alimento: ");
@@ -33,11 +33,11 @@ while (resposta.ToLower() == "s")
 
     estoque.Add(novoAlimento);
 
-    Console.Write("Deseja cadastrar outro alimento (s/n)");
+    Console.Write("\nDeseja cadastrar outro alimento (s/n)");
     resposta = Console.ReadLine();
 }
 
-Console.WriteLine("=== ESTOQUE FINAL DE ALIMENTOS ===");
+Console.WriteLine("\n\n=== ESTOQUE FINAL DE ALIMENTOS ===\n");
 
 if (estoque.Count > 0)
 {
@@ -50,4 +50,6 @@ else
 {
     Console.WriteLine("ESTOQUE VAZIO");
 }
-Console.WriteLine("FIM DA APLICAÇAO");
+Console.ForegroundColor = ConsoleColor.Red;
+Console.WriteLine("\n\n\nFIM DA APLICAÇAO");
+Console.ResetColor();
