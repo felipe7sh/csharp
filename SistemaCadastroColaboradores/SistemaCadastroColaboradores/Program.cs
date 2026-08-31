@@ -14,10 +14,13 @@ while (resposta.ToLower() == "s")
 
     Console.WriteLine("1. Cadastrar Professor");
     Console.WriteLine("2. Cadastrar Secretario");
-    Console.WriteLine("3. Listar Cadastros");
+    Console.WriteLine("3. Cadastrar Coordenador");
+    Console.WriteLine("4. Listar Cadastros");
+    Console.WriteLine("5. Buscar Colaborador");
+    Console.WriteLine("6. Remover Colaborador");
 
     Console.ForegroundColor = ConsoleColor.Red;
-    Console.WriteLine("4. Sair");
+    Console.WriteLine("7. Sair");
     Console.ResetColor();
 
     Console.Write("\nEscolha sua opção: ");
@@ -33,23 +36,13 @@ while (resposta.ToLower() == "s")
         pro.Email = Console.ReadLine();
 
         Console.Write("Informe o Salario: ");
-        pro.Salario = Console.ReadLine();
-
-        Console.Write("Informe o Telefone: ");
-        pro.Telefone = Console.ReadLine();
-
-        Console.Write("Informe o CPF: ");
-        pro.CPF = Console.ReadLine();
+        pro.Salario = double.Parse(Console.ReadLine());
 
         Console.Write("Informe a Disciplina: ");
         pro.Disciplina = Console.ReadLine();
 
-        Console.Write("Informe a Carga Horaria: ");
-        pro.CargaHoraria = Console.ReadLine(); 
-
-        Console.Write("Informe a Formação: ");
-        pro.Formacao = Console.ReadLine();
-
+        Console.Write("Informe a Quantidade de Horas de Aula Semanal: ");
+        pro.HorasAulaSemanal = int.Parse(Console.ReadLine()); 
 
         listaPessoa.Add(pro);
     }
@@ -64,39 +57,102 @@ while (resposta.ToLower() == "s")
         sec.Email = Console.ReadLine();
 
         Console.Write("Informe o Salario: ");
-        sec.Salario = Console.ReadLine();
-
-        Console.Write("Informe o Telefone: ");
-        sec.Telefone = Console.ReadLine();
-
-        Console.Write("Informe o CPF: ");
-        sec.CPF = Console.ReadLine();
+        sec.Salario = double.Parse(Console.ReadLine());
 
         Console.Write("Informe o Setor: ");
         sec.Setor = Console.ReadLine();
 
         Console.Write("Informe o Ramal: ");
-        sec.Ramal = Console.ReadLine();
-
-        Console.Write("Informe o Turno: ");
-        sec.Turno = Console.ReadLine();
+        sec.Ramal = int.Parse(Console.ReadLine());
 
         listaPessoa.Add(sec);
     }
 
     else if (opcao == "3")
     {
+        Coordenador coor = new Coordenador();
+        Console.Write("Informe o Nome: ");
+        coor.Nome = Console.ReadLine();
+
+        Console.Write("Informe o Email: ");
+        coor.Email = Console.ReadLine();
+
+        Console.Write("Informe o Salario: ");
+        coor.Salario = double.Parse(Console.ReadLine());
+
+        Console.Write("Informe o Curso Supervisionado: ");
+        coor.CursoSupervisionado = Console.ReadLine();
+
+        Console.Write("Informe Quantidade de Professores Supervisionados: ");
+        coor.ProfessoresSupervisionados = int.Parse(Console.ReadLine()); 
+        listaPessoa.Add(coor);
+    }
+    else if (opcao == "4")
+    {
         Console.WriteLine("Lista de Colaboradores Cadastrados");
+
+        double total = 0;
+
         foreach (var p in listaPessoa)
         {
             
             p.ExibirDados();
+            p.CalcularBonus();
+            if (p is Coordenador)
+            {
+                total = total + p.Salario + (p.Salario * 0.15);
+            }
+
+            else
+            {
+                total = total + p.Salario + (p.Salario * 0.10);
+            }
+            
         }
 
-        
+        Console.WriteLine($"\nCusto total da folha salarial: {total}");
     }
 
-    else if (opcao == "4")
+    else if (opcao == "5")
+    {
+        Console.Write("Digite o email: ");
+        string emailBusca = Console.ReadLine();
+
+        bool encontrado = false;
+
+        foreach (var p in listaPessoa)
+        {
+            if (p.Email == emailBusca)
+            {
+                p.ExibirDados();
+                p.CalcularBonus();
+                encontrado = true;
+            }
+        }
+
+        if (encontrado == false)
+        {
+            Console.WriteLine("Colaborador não encontrado.");
+        }
+    }
+
+    else if (opcao == "6")
+    {
+        Console.Write("Digite o nome ou email: ");
+        string busca = Console.ReadLine();
+
+        foreach (var p in listaPessoa)
+        {
+            if (p.Nome == busca || p.Email == busca)
+            {
+                listaPessoa.Remove(p);
+                Console.WriteLine("Colaborador removido");
+                break;
+            }
+        }
+    }
+
+    else if (opcao == "7")
     {
         Console.WriteLine("Saindo...");
         resposta = "n";

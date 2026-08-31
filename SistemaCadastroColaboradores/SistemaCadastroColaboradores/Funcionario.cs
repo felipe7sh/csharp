@@ -6,15 +6,18 @@ namespace SistemaCadastroColaboradores
 {
     public class Funcionario
     {
-        public string Nome, Email, Salario, Telefone, CPF;
-
+        public string Nome, Email;
+        public double Salario;
         public virtual void ExibirDados()
         {
             Console.WriteLine($"\nNome: {Nome}");
             Console.WriteLine($"Email: {Email}");
             Console.WriteLine($"Salario: {Salario}");
-            Console.WriteLine($"Telefone: {Telefone}");
-            Console.WriteLine($"CPF: {CPF}");
+        }
+
+        public virtual void CalcularBonus()
+        {
+            Console.WriteLine($"Bonus: {Salario * 0.10}");
         }
     }
 }
