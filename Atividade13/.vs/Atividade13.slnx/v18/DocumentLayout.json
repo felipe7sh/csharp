@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Felipe Sa\\PWBE\\Atividade13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E19E7144-2849-29CB-5EC0-24C882A35DE9}|Atividade13\\Atividade13.csproj|d:\\felipe sa\\pwbe\\atividade13\\atividade13\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E19E7144-2849-29CB-5EC0-24C882A35DE9}|Atividade13\\Atividade13.csproj|solutionrelative:atividade13\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19E7144-2849-29CB-5EC0-24C882A35DE9}|Atividade13\\Atividade13.csproj|d:\\felipe sa\\pwbe\\atividade13\\atividade13\\views\\home\\seguranca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E19E7144-2849-29CB-5EC0-24C882A35DE9}|Atividade13\\Atividade13.csproj|solutionrelative:atividade13\\views\\home\\seguranca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Felipe Sa\\PWBE\\Atividade13\\Atividade13\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Atividade13\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Felipe Sa\\PWBE\\Atividade13\\Atividade13\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Atividade13\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T11:53:26.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seguranca.cshtml",
+              "DocumentMoniker": "D:\\Felipe Sa\\PWBE\\Atividade13\\Atividade13\\Views\\Home\\Seguranca.cshtml",
+              "RelativeDocumentMoniker": "Atividade13\\Views\\Home\\Seguranca.cshtml",
+              "ToolTip": "D:\\Felipe Sa\\PWBE\\Atividade13\\Atividade13\\Views\\Home\\Seguranca.cshtml",
+              "RelativeToolTip": "Atividade13\\Views\\Home\\Seguranca.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T11:53:25.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
