@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LojaMusica/1.0.0": {
+        "runtime": {
+          "LojaMusica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LojaMusica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

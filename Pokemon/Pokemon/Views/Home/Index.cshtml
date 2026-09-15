@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<style>
+    body {
+        color: black;
+        background-color: #f7e3ab
+    }
+
+    .logo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 5px 0;
+        padding-bottom: 50px;
+    }
+
+    .cardPai {
+        display: flex;
+        justify-content: center;
+        gap: 20px; 
+        flex-wrap: wrap;
+    }
+
+    .card {
+        /*width: largura*/
+        /*height: altura*/
+        border-radius: 12px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        background-color: #fff;
+        overflow: hidden;
+    }
+
+    .card p {
+        margin: 10px;
+    }
+</style>
+
+<header class="logo">
+    <img src="~/img/logo.webp" style="width: 300px; height: 120px;" />
+</header>
+
+<div class="cardPai">
+    <div class="card" style="width: 350px; height: 320px;">
+        <img src="~/img/sobre.jpg" />
+        <p>Pokémon é uma franquia de mídia japonesa criada em 1996 que gira em torno de criaturas fictícias que humanos capturam e treinam para batalhas.</p>
+    </div>
+
+    <div class="card" style="width: 400px; height: 500px;">
+        <img src="~/img/sobre2.png" style="height: 200px; width: 100%;" />
+        <p>O que é Pokémon</p>
+        <ul>
+            <li>Origem: A marca nasceu no Japão com os jogos Pokémon Red e Green para o portátil Game Boy.</li>
+            <li>Conceito: O objetivo central dos treinadores é capturar espécies diferentes, preencher a Pokédex e vencer torneios.</li>
+            <li>Expansão: O sucesso dos videogames gerou uma série de anime mundialmente famosa, o jogo de cartas colecionáveis (Pokémon Estampas Ilustradas) e o jogo mobile Pokémon GO</li>
+        </ul>
+    </div>
+</div>

@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Felipe Sa\\PWBE\\Atividade13\\",
+  "WorkspaceRootPath": "D:\\Felipe Sa\\csharp\\Atividade13\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E19E7144-2849-29CB-5EC0-24C882A35DE9}|Atividade13\\Atividade13.csproj|d:\\felipe sa\\pwbe\\atividade13\\atividade13\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E19E7144-2849-29CB-5EC0-24C882A35DE9}|Atividade13\\Atividade13.csproj|d:\\felipe sa\\csharp\\atividade13\\atividade13\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E19E7144-2849-29CB-5EC0-24C882A35DE9}|Atividade13\\Atividade13.csproj|solutionrelative:atividade13\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19E7144-2849-29CB-5EC0-24C882A35DE9}|Atividade13\\Atividade13.csproj|d:\\felipe sa\\csharp\\atividade13\\atividade13\\views\\home\\seguranca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E19E7144-2849-29CB-5EC0-24C882A35DE9}|Atividade13\\Atividade13.csproj|solutionrelative:atividade13\\views\\home\\seguranca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19E7144-2849-29CB-5EC0-24C882A35DE9}|Atividade13\\Atividade13.csproj|d:\\felipe sa\\csharp\\atividade13\\atividade13\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E19E7144-2849-29CB-5EC0-24C882A35DE9}|Atividade13\\Atividade13.csproj|solutionrelative:atividade13\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E19E7144-2849-29CB-5EC0-24C882A35DE9}|Atividade13\\Atividade13.csproj|d:\\felipe sa\\pwbe\\atividade13\\atividade13\\views\\home\\seguranca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E19E7144-2849-29CB-5EC0-24C882A35DE9}|Atividade13\\Atividade13.csproj|solutionrelative:atividade13\\views\\home\\seguranca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E19E7144-2849-29CB-5EC0-24C882A35DE9}|Atividade13\\Atividade13.csproj|d:\\felipe sa\\csharp\\atividade13\\atividade13\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E19E7144-2849-29CB-5EC0-24C882A35DE9}|Atividade13\\Atividade13.csproj|solutionrelative:atividade13\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19E7144-2849-29CB-5EC0-24C882A35DE9}|Atividade13\\Atividade13.csproj|d:\\felipe sa\\csharp\\atividade13\\atividade13\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19E7144-2849-29CB-5EC0-24C882A35DE9}|Atividade13\\Atividade13.csproj|solutionrelative:atividade13\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +35,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\Felipe Sa\\csharp\\Atividade13\\Atividade13\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Atividade13\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\Felipe Sa\\csharp\\Atividade13\\Atividade13\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Atividade13\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-09-15T10:49:04.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Felipe Sa\\csharp\\Atividade13\\Atividade13\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Atividade13\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Felipe Sa\\csharp\\Atividade13\\Atividade13\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Atividade13\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-15T10:44:19.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Felipe Sa\\csharp\\Atividade13\\Atividade13\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Atividade13\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Felipe Sa\\csharp\\Atividade13\\Atividade13\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Atividade13\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T10:41:54.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Felipe Sa\\PWBE\\Atividade13\\Atividade13\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\Felipe Sa\\csharp\\Atividade13\\Atividade13\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Atividade13\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Felipe Sa\\PWBE\\Atividade13\\Atividade13\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Felipe Sa\\csharp\\Atividade13\\Atividade13\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Atividade13\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-14T11:53:26.208Z",
               "EditorCaption": ""
@@ -37,11 +88,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Seguranca.cshtml",
-              "DocumentMoniker": "D:\\Felipe Sa\\PWBE\\Atividade13\\Atividade13\\Views\\Home\\Seguranca.cshtml",
+              "DocumentMoniker": "D:\\Felipe Sa\\csharp\\Atividade13\\Atividade13\\Views\\Home\\Seguranca.cshtml",
               "RelativeDocumentMoniker": "Atividade13\\Views\\Home\\Seguranca.cshtml",
-              "ToolTip": "D:\\Felipe Sa\\PWBE\\Atividade13\\Atividade13\\Views\\Home\\Seguranca.cshtml",
+              "ToolTip": "D:\\Felipe Sa\\csharp\\Atividade13\\Atividade13\\Views\\Home\\Seguranca.cshtml",
               "RelativeToolTip": "Atividade13\\Views\\Home\\Seguranca.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAB/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-14T11:53:25.209Z",
               "EditorCaption": ""

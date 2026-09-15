@@ -47,3 +47,7 @@ button.accept-policy[b-06umltmzsl] {
   white-space: nowrap;
   line-height: 60px;
 }
+
+.pb-3[b-06umltmzsl] {
+    display: grid;
+}
