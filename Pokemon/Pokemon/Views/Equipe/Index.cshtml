@@ -1,0 +1,134 @@
+﻿@{
+    ViewData["Title"] = "Equipe";
+}
+
+
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    body {
+        background-color: #f4f4f4;
+        color: #333333;
+        line-height: 1.6;
+    }
+
+    .header {
+        background: linear-gradient(135deg, #ef5350 50%, #cc0000 100%);
+        color: white;
+        text-align: center;
+        padding: 3rem 1rem;
+        position: relative;
+        overflow: hidden;
+    }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+    .container {
+        max-width: 1200px;
+        margin: 2rem auto;
+        padding: 0 1rem;
+    }
+
+    .team-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 2rem;
+        margin-top: 2rem;
+    }
+
+    .card-membro {
+        background: white;
+        border-radius: 15px;
+        overflow: hidden;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        text-align: center;
+        border-top: 5px solid #ef5350;
+    }
+
+    .card-membro:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+    }
+
+    .info {
+        padding: 1.5rem;
+    }
+
+    .info h3 {
+        font-size: 1.4rem;
+        margin-bottom: 0.2rem;
+        color: #333333;
+    }
+
+    .role {
+        color: #2a75d3;
+        font-weight: bold;
+        font-size: 0.9rem;
+        text-transform: uppercase;
+        margin-bottom: 1rem;
+        letter-spacing: 1px;
+    }
+
+    .bio {
+        font-size: 0.95rem;
+        color: #666;
+        margin-bottom: 1.5rem;
+    }
+
+    .card-tipo {
+        display: inline-block;
+        padding: 0.3rem 1rem;
+        border-radius: 20px;
+        color: white;
+        font-size: 0.8rem;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 1rem;
+    }
+</style>
+
+<header class="header">
+    <h1>Nossa Equipe</h1>
+    <p>Conheça os Treinadores por trás do nosso portal Pokémon!</p>
+</header>
+
+
+<main class="container">
+    <div class="team-grid">
+
+        <div class="card-membro">
+            <div class="info">
+                <h3>Felipe Sá</h3>
+                <div class="role">Campeão da Liga</div>
+                <span class="card-tipo" style="background-color: #eed535;">Tipo: Elétrico</span>
+                <p class="bio">Colecionador de insígnias e viciado em Shiny Hunt.</p>
+            </div>
+        </div>
+
+        <div class="card-membro" style="border-top-color: #ff4422;">
+            <div class="info">
+                <h3>Arthur Dacanal</h3>
+                <div class="role">Professor Pokémon</div>
+                <span class="card-tipo" style="background-color: #ff4422;">Tipo: Fogo</span>
+                <p class="bio">Estrategista de plantão. Analisa o meta-game e cria os melhores guias de builds para o competitivo.</p>
+            </div>
+        </div>
+    </div>
+</main>

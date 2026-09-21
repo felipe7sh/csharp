@@ -1,58 +1,121 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+
 <style>
     body {
-        color: black;
-        background-color: #f7e3ab
+        color: #2d3748; 
+        background-color: #f7e3ab;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 0;
     }
 
     .logo {
         display: flex;
         justify-content: center;
         align-items: center;
-        padding: 5px 0;
-        padding-bottom: 50px;
+        padding: 40px 0;
     }
+
+        .logo img {
+            max-width: 100%;
+            height: auto;
+            object-fit: contain;
+        }
 
     .cardPai {
         display: flex;
         justify-content: center;
-        gap: 20px; 
+        gap: 30px; 
         flex-wrap: wrap;
+        max-width: 1200px;
+        margin: 0 auto;
     }
 
     .card {
-        /*width: largura*/
-        /*height: altura*/
-        border-radius: 12px;
-        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        width: 350px;
+        display: flex;
+        flex-direction: column;
+        border-radius: 16px;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05); 
         background-color: #fff;
         overflow: hidden;
+        transition: transform 0.2s ease; 
     }
 
-    .card p {
-        margin: 10px;
+    .card:hover {
+        transform: translateY(-5px); /* Elevação suave no hover */
+    }
+
+    .card img {
+        width: 100%;
+        height: 200px; 
+        object-fit: cover; 
+    }
+
+    .card-conteudo {
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        flex-grow: 1;
+    }
+
+    .card h2 {
+        margin: 0 0 12px 0;
+        font-size: 1.4rem;
+        color: #1a202c;
+    }
+
+    .card p, .card ul {
+        margin: 0;
+        font-size: 0.95rem;
+        line-height: 1.6; 
+        color: #4a5568;
+    }
+
+    .card ul {
+        padding-left: 20px;
+    }
+
+    .card li {
+        margin-bottom: 8px;
     }
 </style>
 
 <header class="logo">
-    <img src="~/img/logo.webp" style="width: 300px; height: 120px;" />
+    <img src="~/img/logo.webp" style="width: 300px; height: 120px;" alt="Pokémon Logo" />
 </header>
 
 <div class="cardPai">
-    <div class="card" style="width: 350px; height: 320px;">
-        <img src="~/img/sobre.jpg" />
-        <p>Pokémon é uma franquia de mídia japonesa criada em 1996 que gira em torno de criaturas fictícias que humanos capturam e treinam para batalhas.</p>
+    <div class="card">
+        <img src="~/img/sobre.jpg" alt="O Fenômeno" />
+        <div class="card-conteudo">
+            <h2>O Fenômeno</h2>
+            <p>Pokémon é uma franquia de mídia japonesa criada em 1996 que gira em torno de criaturas fictícias que humanos capturam e treinam para batalhas.</p>
+        </div>
     </div>
 
-    <div class="card" style="width: 400px; height: 500px;">
-        <img src="~/img/sobre2.png" style="height: 200px; width: 100%;" />
-        <p>O que é Pokémon</p>
-        <ul>
-            <li>Origem: A marca nasceu no Japão com os jogos Pokémon Red e Green para o portátil Game Boy.</li>
-            <li>Conceito: O objetivo central dos treinadores é capturar espécies diferentes, preencher a Pokédex e vencer torneios.</li>
-            <li>Expansão: O sucesso dos videogames gerou uma série de anime mundialmente famosa, o jogo de cartas colecionáveis (Pokémon Estampas Ilustradas) e o jogo mobile Pokémon GO</li>
-        </ul>
+    <div class="card">
+        <img src="~/img/sobre2.png" alt="Origens e Expansão" />
+        <div class="card-conteudo">
+            <h2>Origens e Expansão</h2>
+            <ul>
+                <li><strong>Origem:</strong> Nasceu no Japão com os jogos Red e Green para o portátil Game Boy.</li>
+                <li><strong>Conceito:</strong> Treinadores capturam espécies, completam a Pokédex e vencem torneios.</li>
+                <li><strong>Expansão:</strong> Gerou o anime, o Card Game (TCG) e o fenômeno mobile Pokémon GO.</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="card">
+        <img src="~/img/sobre3.webp" alt="A Evolução da Pokédex" />
+        <div class="card-conteudo">
+            <h2>A Evolução da Pokédex</h2>
+            <p>A Pokédex e a marca histórica de mais de 1.000 espécies estão intimamente conectadas, representando a evolução da franquia:</p>
+            <ul style="margin-top: 10px;">
+                <li><strong>Início:</strong> Começou em 1996 catalogando apenas as 151 criaturas originais.</li>
+                <li><strong>Marco Atual:</strong> Ultrapassou oficialmente a marca de 1.025 espécies únicas criadas.</li>
+            </ul>
+        </div>
     </div>
 </div>

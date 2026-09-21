@@ -6,6 +6,7 @@ wwwroot\img\agua\sq.jpg
 wwwroot\img\ambiente_agua.jpeg
 wwwroot\img\ambiente_eletrico.png
 wwwroot\img\ambiente_fogo.webp
+wwwroot\img\animado.gif
 wwwroot\img\colecoa.jpg
 wwwroot\img\eletrico\pikachu.jpg
 wwwroot\img\eletrico\rotom.jpg
@@ -13,9 +14,11 @@ wwwroot\img\eletrico\toxtricity.jpg
 wwwroot\img\fogo\chandelure.jpg
 wwwroot\img\fogo\charizard.jpg
 wwwroot\img\fogo\darmanitan.jpg
+wwwroot\img\inicio.gif
 wwwroot\img\logo.webp
 wwwroot\img\sobre.jpg
 wwwroot\img\sobre2.png
+wwwroot\img\sobre3.webp
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map

@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Felipe Sa\\PWBE\\Pokemon\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF77F95-4691-D5B7-6DC2-8DC5D89E8136}|Pokemon\\Pokemon.csproj|d:\\felipe sa\\pwbe\\pokemon\\pokemon\\views\\equipe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF77F95-4691-D5B7-6DC2-8DC5D89E8136}|Pokemon\\Pokemon.csproj|solutionrelative:pokemon\\views\\equipe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Felipe Sa\\PWBE\\Pokemon\\Pokemon\\Views\\Equipe\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pokemon\\Views\\Equipe\\Index.cshtml",
+              "ToolTip": "D:\\Felipe Sa\\PWBE\\Pokemon\\Pokemon\\Views\\Equipe\\Index.cshtml",
+              "RelativeToolTip": "Pokemon\\Views\\Equipe\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-21T12:11:39.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
