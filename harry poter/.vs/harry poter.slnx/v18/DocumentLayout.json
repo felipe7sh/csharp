@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Felipe Sa\\PWBE\\harry poter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9701DBF-E6AF-6D3A-B19F-6BB68415DDB6}|harry poter\\harry poter.csproj|d:\\felipe sa\\pwbe\\harry poter\\harry poter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9701DBF-E6AF-6D3A-B19F-6BB68415DDB6}|harry poter\\harry poter.csproj|solutionrelative:harry poter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9701DBF-E6AF-6D3A-B19F-6BB68415DDB6}|harry poter\\harry poter.csproj|d:\\felipe sa\\pwbe\\harry poter\\harry poter\\views\\pocoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9701DBF-E6AF-6D3A-B19F-6BB68415DDB6}|harry poter\\harry poter.csproj|solutionrelative:harry poter\\views\\pocoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Felipe Sa\\PWBE\\harry poter\\harry poter\\Program.cs",
+              "RelativeDocumentMoniker": "harry poter\\Program.cs",
+              "ToolTip": "D:\\Felipe Sa\\PWBE\\harry poter\\harry poter\\Program.cs",
+              "RelativeToolTip": "harry poter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T13:04:11.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Felipe Sa\\PWBE\\harry poter\\harry poter\\Views\\Pocoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "harry poter\\Views\\Pocoes\\Index.cshtml",
+              "ToolTip": "D:\\Felipe Sa\\PWBE\\harry poter\\harry poter\\Views\\Pocoes\\Index.cshtml",
+              "RelativeToolTip": "harry poter\\Views\\Pocoes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-22T12:27:27.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

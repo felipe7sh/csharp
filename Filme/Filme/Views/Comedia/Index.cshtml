@@ -1,0 +1,110 @@
+﻿@{
+    ViewData["Title"] = "Comedia";
+}
+<style>
+    * {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    body {
+        background-image: url('img/fundo.jpg');
+    }
+
+    .caixa {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+    }
+
+    .card {
+        width: 100%;
+        height: auto;
+        background-color: whitesmoke;
+        margin: 0 auto;
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .card:hover {
+        transform: translate(8px, -8px);
+        box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+    }
+
+    .conteudo {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .conteudo img {
+        width: 250px;
+        height: 350px;
+        border-radius: 10px;
+        box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.15);
+    }
+
+
+    .titulo {
+        padding: 10px 0 0 0;
+    }
+
+    .sinopse {
+        color: dimgrey;
+    }
+    .topo {
+        color: black;
+        height: auto;
+        width: auto;
+        background-color: whitesmoke;
+        border-radius: 10px;
+        margin: 10px;
+        padding: 10px;
+        text-align: center;
+    }
+</style>
+
+
+<div class="topo">
+    <h1>Comedia</h1>
+</div>
+
+<div class="caixa">
+    <div class="card">
+        <div class="conteudo">
+            <img src="\img\asbranquelas.jpg"/>
+            <h1 class="titulo">As Branquelas (2004)</h1>
+
+            <p class="sinopse">
+                Dois agentes do FBI precisam se disfarçar como duas socialitespara impedir um possível sequestro.
+            </p>
+            <p>⭐ 6,0/10</p>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="conteudo">
+            <img src="\img\superbad.webp"/>
+            <h1 class="titulo">Superbad - É Hoje (2007)</h1>
+
+            <p class="sinopse">
+                Dois amigos adolescentes tentam comprar bebida alcoólica para uma festa de despedida do ensino médio, mas tudo dá errado da forma mais cômica possível.
+            </p>
+            <p>⭐ 7,6/10</p>
+        </div>
+    </div>
+    <div class="card">
+        <div class="conteudo">
+            <img src="\img\SeBeber.jpg"/>
+            <h1 class="titulo">Se Beber, Não Case! (2009)</h1>
+
+            <p class="sinopse">
+                Três amigos acordam em Las Vegas após uma despedida de solteiro sem nenhuma memória da noite anterior e percebem que perderam o noivo.
+            </p>
+            <p>⭐ 7,7/10</p>
+        </div>
+    </div>
+</div>

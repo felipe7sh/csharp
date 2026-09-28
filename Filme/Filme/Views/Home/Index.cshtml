@@ -1,0 +1,113 @@
+﻿@{
+    ViewData["Title"] = "Filmes";
+}
+<style>
+    *{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    body {
+        background-image: url('img/fundo.jpg');
+    }
+
+    .caixa {
+        display:grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+    }
+
+    .card {
+        width: 100%;
+        height: auto;
+        background-color: whitesmoke;
+        margin: 0 auto;
+        padding: 10px;
+        border-radius: 10px;
+        box-shadow: 1px 4px 10px rgba(0, 0, 0, 0.2);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+    }
+
+    .card:hover {
+        transform: translate(8px, -8px);
+        box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+    }
+
+    .conteudo img {
+        width: 250px;
+        height: 350px;
+        border-radius: 10px;
+        box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.15);
+    }
+
+    .conteudo {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        color: black;
+    }
+
+    .titulo {
+        padding: 10px 0 0 0;
+    }
+
+    .nota {
+        font-size: 16px;
+    }
+
+    .topo {
+        color: black;
+        height: auto;
+        width: auto;
+        background-color: whitesmoke;
+        border-radius: 10px;
+        margin: 10px;
+        padding: 10px;
+        text-align: center;
+    }
+</style>
+
+
+<div class="topo">
+    <h1 >Bem-Vindo</h1>
+    <p >Filmes em Cartaz</p>
+</div>
+
+<div class="caixa">
+    <div class="card">
+        <div class="conteudo">
+            <img src="\img\asbranquelas.jpg"/>
+            <h1 class="titulo">As Branquelas (2004)</h1>
+        
+            <p class="sinopse">
+                Dois agentes do FBI precisam se disfarçar como duas socialitespara impedir um possível sequestro.</p>
+            <p class="nota">⭐ 6,0/10</p>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="conteudo">
+            <img src="\img\topgun.jpg"/>
+            <h1 class="titulo">Top Gun: Maverick (2022)</h1>
+    
+             <p class="sinopse">
+                Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete "Maverick" Mitchell voltou, rompendo os limites como um piloto de testes corajoso.
+            </p>
+            <p>⭐ 8,2/10</p>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="conteudo">
+            <img src="\img\corra.jpg"/>
+                <h1 class="titulo">Corra! (2017)</h1>
+
+                <p class="sinopse">
+                    Um jovem fotógrafo negro viaja para conhecer os pais de sua namorada branca e descobre segredos obscuros e perturbadores sobre a família.
+                </p>
+            <p>⭐ 7,8/10</p>
+        </div>
+    </div>
+</div>

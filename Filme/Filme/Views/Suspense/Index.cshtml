@@ -1,0 +1,113 @@
+﻿@{
+    ViewData["Title"] = "Suspense";
+}
+<style>
+    * {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    body {
+        background-image: url('img/fundo.jpg');
+    }
+
+    .conteudo img {
+        width: 250px;
+        height: 350px;
+        border-radius: 10px;
+        box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.15);
+    }
+
+    .caixa {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+    }
+
+    .card {
+        width: 100%;
+        height: auto;
+        background-color: whitesmoke;
+        margin: 0 auto;
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .card:hover {
+        transform: translate(8px, -8px);
+        box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+    }
+
+     .conteudo img {
+         width: 250px;
+         height: auto;
+     }
+    .conteudo {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .titulo {
+        padding: 10px 0 0 0;
+    }
+
+    .sinopse {
+        color: dimgrey;
+    }
+
+    .topo {
+        color: black;
+        height: auto;
+        width: auto;
+        background-color: whitesmoke;
+        border-radius: 10px;
+        margin: 10px;
+        padding: 10px;
+        text-align: center;
+    }
+</style>
+
+
+<div class="topo">
+    <h1>Suspense</h1>
+</div>
+<div class="caixa">
+    <div class="card">
+        <div class="conteudo">
+            <img src="\img\corra.jpg"/>
+            <h1 class="titulo">Corra! (2017)</h1>
+
+            <p class="sinopse">
+                Um jovem fotógrafo negro viaja para conhecer os pais de sua namorada branca e descobre segredos obscuros e perturbadores sobre a família.
+            </p>
+            <p>⭐ 7,8/10</p>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="conteudo">
+            <img src="\img\garota.jpg"/>
+            <h1 class="titulo">Garota Exemplar (2014)</h1>
+
+            <p class="sinopse">
+                Quando sua esposa desaparece misteriosamente no aniversário de casamento, um homem se torna o principal suspeito e um jogo psicológico complexo se inicia.
+            </p>
+            <p>⭐ 8.1/10</p>
+        </div>
+    </div>
+    <div class="card">
+        <div class="conteudo">
+            <img src="\img\sextosentido.jpg"/>
+            <h1 class="titulo">O Sexto Sentido (1999)</h1>
+
+            <p class="sinopse">
+                Um psicólogo infantil tenta ajudar um garoto que afirma ver pessoas mortas, levando a uma das reviravoltas mais famosas do cinema.
+            </p>
+            <p>⭐ 8,2/10</p>
+        </div>
+    </div>
+</div>

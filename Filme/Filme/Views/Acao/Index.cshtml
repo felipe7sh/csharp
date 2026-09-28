@@ -1,0 +1,114 @@
+﻿@{
+    ViewData["Title"] = "Ação";
+}
+<style>
+    * {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    body {
+        background-image: url('img/fundo.jpg');
+    }
+
+    .caixa {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+    }
+
+    .card {
+        width: 100%;
+        height: auto;
+        background-color: whitesmoke;
+        margin: 0 auto;
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .card:hover {
+       transform: translate(8px, -8px);
+       box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+    }
+
+    .conteudo {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .conteudo img {
+        width: 250px;
+        height: 350px;
+        border-radius: 10px;
+            box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.15);
+    }
+
+    .titulo {
+        padding: 10px 0 0 0;
+    }
+
+    .sinopse {
+        color: dimgrey;
+    }
+
+    .nota {
+        font-size: 18px;
+    }
+
+    .topo {
+        color: black;
+        height: auto;
+        width: auto;
+        background-color: whitesmoke;
+        border-radius: 10px;
+        margin: 10px;
+        padding: 10px;
+        text-align: center;
+    }
+</style>
+
+
+<div class="topo">
+    <h1>Ação</h1>
+</div>
+
+<div class="caixa">
+    <div class="card">
+        <div class="conteudo">
+            <img src="\img\madmax.jpg"/>
+            <h1 class="titulo">Mad Max: Estrada da Fúria (2015)</h1>
+
+            <p class="sinopse">
+                Em um mundo pós-apocalíptico desértico, uma guerreira se rebela contra um tirano e inicia uma perseguição implacável em alta velocidade.
+            </p>
+            <p class="nota">⭐ 7,7/10</p>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="conteudo">
+            <img src="\img\JohnWick.webp"/>
+            <h1 class="titulo">John Wick: De Volta ao Jogo (2014)</h1>
+
+            <p class="sinopse">
+                DUm ex-assassino de aluguel sai da aposentadoria para se vingar dos gângsteres que tiraram tudo dele.
+            </p>
+            <p class="nota">⭐ 7,5/10</p>
+        </div>
+    </div>
+    <div class="card">
+        <div class="conteudo">
+            <img src="\img\topgun.jpg"/>
+            <h1 class="titulo">Top Gun: Maverick (2022)</h1>
+
+            <p class="sinopse">
+                O experiente piloto Maverick retorna para treinar uma nova geração de aviadores de elite para uma missão quase impossível.
+            </p>
+            <p class="nota">⭐ 8,2/10</p>
+        </div>
+    </div>
+</div>

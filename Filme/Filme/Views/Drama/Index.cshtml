@@ -1,0 +1,109 @@
+﻿@{
+    ViewData["Title"] = "Drama";
+}
+<style>
+    * {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    body {
+        background-image: url('img/fundo.jpg');
+    }
+    .caixa {
+        display: grid ;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+    }
+
+
+
+    .card {
+        width: 100%;
+        height: auto;
+        background-color: whitesmoke;
+        margin: 0 auto;
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .conteudo img {
+        width: 250px;
+        height: 350px;
+        border-radius: 10px;
+        box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.15);
+    }
+    .card:hover {
+        transform: translate(8px, -8px);
+        box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+    }
+
+    .conteudo {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .titulo {
+        padding: 10px 0 0 0;
+    }
+
+    .sinopse {
+        color: dimgrey;
+    }
+    .topo {
+        color: black;
+        height: auto;
+        width: auto;
+        background-color: whitesmoke;
+        border-radius: 10px;
+        margin: 10px;
+        padding: 10px;
+        text-align: center;
+    }
+</style>
+
+
+<div class="topo">
+    <h1>Drama</h1>
+</div>
+
+<div class="caixa">
+    <div class="card">
+        <div class="conteudo">
+            <img src="\img\sonho.jpg"/>
+            <h1 class="titulo">Um Sonho de Liberdade (1994)</h1>
+
+            <p class="sinopse">
+                A história da amizade e da busca por redenção de dois detentos ao longo de décadas em uma prisão rigorosa.
+            </p>
+            <p>⭐ 9,3/10</p>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="conteudo">
+            <img src="\img\procura.jpg"/>
+            <h1 class="titulo">À Procura da Felicidade (2006)</h1>
+
+            <p class="sinopse">
+                Um pai solo enfrenta a falência e a falta de moradia enquanto luta incansavelmente para dar uma vida melhor ao seu filho.
+            </p>
+            <p>⭐ 8,0/10</p>
+        </div>
+    </div>
+    <div class="card">
+        <div class="conteudo">
+            <img src="\img\coringa.png"/>
+            <h1 class="titulo">Coringa (2019)</h1>
+
+            <p class="sinopse">
+                Acompanha a descida psicológica de um comediante falido e marginalizado até ele se transformar no icônico vilão de Gotham City.
+            </p>
+            <p>⭐ 8,3/10</p>
+        </div>
+    </div>
+</div>

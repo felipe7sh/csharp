@@ -1,0 +1,99 @@
+D:\Felipe Sa\PWBE\harry poter\harry poter\bin\Debug\net10.0\appsettings.Development.json
+D:\Felipe Sa\PWBE\harry poter\harry poter\bin\Debug\net10.0\appsettings.json
+D:\Felipe Sa\PWBE\harry poter\harry poter\bin\Debug\net10.0\harry poter.staticwebassets.runtime.json
+D:\Felipe Sa\PWBE\harry poter\harry poter\bin\Debug\net10.0\harry poter.staticwebassets.endpoints.json
+D:\Felipe Sa\PWBE\harry poter\harry poter\bin\Debug\net10.0\harry poter.exe
+D:\Felipe Sa\PWBE\harry poter\harry poter\bin\Debug\net10.0\harry poter.deps.json
+D:\Felipe Sa\PWBE\harry poter\harry poter\bin\Debug\net10.0\harry poter.runtimeconfig.json
+D:\Felipe Sa\PWBE\harry poter\harry poter\bin\Debug\net10.0\harry poter.dll
+D:\Felipe Sa\PWBE\harry poter\harry poter\bin\Debug\net10.0\harry poter.pdb
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\harry poter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\harry poter.AssemblyInfoInputs.cache
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\harry poter.AssemblyInfo.cs
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\harry poter.csproj.CoreCompileInputs.cache
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\harry poter.MvcApplicationPartsAssemblyInfo.cache
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\harry poter.RazorAssemblyInfo.cache
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\harry poter.RazorAssemblyInfo.cs
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\harry poter.sourcelink.json
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\scopedcss\bundle\harry poter.styles.css
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\scopedcss\projectbundle\harry poter.bundle.scp.css
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\639dr9d753-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\t66c2tz9vc-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\zn7cv6ivyi-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\hgtguab5jt-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\n6e6vb70l5-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\rhfgl2zqry-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\n5fby0cr34-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\mltmm6w4y9-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\osq7hwxbg0-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\x7sb1y0v9j-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\xp6yt82e2k-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\b3epv6z171-{0}-ub07r2b239-ub07r2b239.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\qp5om7llv6-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\e3pvbl0unz-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\oxw0pmmq3y-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\iubnjdlg9c-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\lla2z171yq-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\f7wuci40fd-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\5dtvd4xzjf-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\5yojwhmgms-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\8jkwtoeoxg-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\74l4q7cfi0-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\8iyfgihd26-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\c6fe9j9y7c-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\o55z8gdr99-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\rw3iag8avw-{0}-06098lyss8-06098lyss8.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\bmcceyfxfp-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\36lhdrex2k-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\3vlou3iqly-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\fr30dxc1ww-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\jj5p8ok79n-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\doaypvpmeg-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\atm0xkhy8m-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\uwnevysmvv-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\oq26ix6h45-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\cc0rzgw9l8-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\h8920f9of1-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\9sojizs0p2-{0}-493y06b0oq-493y06b0oq.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\3u27jba0er-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\utufssx9st-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\pn1mbsg1rg-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\zhj127uzkh-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\b3m2nntmqe-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\tvthn7jrc5-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\lo2kw3f3rx-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\wbs4b68q6h-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\vjlqm5dipj-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\otyweyk6nq-{0}-47otxtyo56-47otxtyo56.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\ws75g3mb5q-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\q25bycl8fd-{0}-356vix0kms-356vix0kms.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\c2ki1q7q7c-{0}-83jwlth58m-83jwlth58m.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\lhkdq9ngcp-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\bshwjq4lxg-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\o903r7mucf-{0}-ag7o75518u-ag7o75518u.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\fsxf9vqdfv-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\ipp6okevnl-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\27cd2fw1ni-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\7vmu4sofov-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\3sa7n8ljki-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\c0oj1co8ls-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\03drrksnzw-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\x7ue89k6b3-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\6mzwfdxgj9-{0}-q6x1kfxkk7-q6x1kfxkk7.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\compressed\07hifz8gso-{0}-q6x1kfxkk7-q6x1kfxkk7.gz
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\staticwebassets.build.json
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\staticwebassets.development.json
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\swae.build.ex.cache
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\harry poter.dll
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\refint\harry poter.dll
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\harry poter.pdb
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\harry poter.genruntimeconfig.cache
+D:\Felipe Sa\PWBE\harry poter\harry poter\obj\Debug\net10.0\ref\harry poter.dll
