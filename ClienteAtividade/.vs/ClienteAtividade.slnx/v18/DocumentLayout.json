@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Felipe Sa\\PWBE\\ClienteAtividade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB53F6CF-83AC-ECA0-3A67-6555BF6E262B}|ClienteAtividade\\ClienteAtividade.csproj|d:\\felipe sa\\pwbe\\clienteatividade\\clienteatividade\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB53F6CF-83AC-ECA0-3A67-6555BF6E262B}|ClienteAtividade\\ClienteAtividade.csproj|solutionrelative:clienteatividade\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Felipe Sa\\PWBE\\ClienteAtividade\\ClienteAtividade\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "ClienteAtividade\\Models\\Cliente.cs",
+              "ToolTip": "D:\\Felipe Sa\\PWBE\\ClienteAtividade\\ClienteAtividade\\Models\\Cliente.cs",
+              "RelativeToolTip": "ClienteAtividade\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T14:18:00.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
