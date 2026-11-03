@@ -1,12 +1,89 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Felipe Sa\\PWBE\\CadProduto\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BC86F0-3F11-5C68-14A9-2ABD9479F75A}|CadProduto\\CadProduto.csproj|d:\\felipe sa\\pwbe\\cadproduto\\cadproduto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BC86F0-3F11-5C68-14A9-2ABD9479F75A}|CadProduto\\CadProduto.csproj|solutionrelative:cadproduto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BC86F0-3F11-5C68-14A9-2ABD9479F75A}|CadProduto\\CadProduto.csproj|d:\\felipe sa\\pwbe\\cadproduto\\cadproduto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BC86F0-3F11-5C68-14A9-2ABD9479F75A}|CadProduto\\CadProduto.csproj|solutionrelative:cadproduto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BC86F0-3F11-5C68-14A9-2ABD9479F75A}|CadProduto\\CadProduto.csproj|d:\\felipe sa\\pwbe\\cadproduto\\cadproduto\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BC86F0-3F11-5C68-14A9-2ABD9479F75A}|CadProduto\\CadProduto.csproj|solutionrelative:cadproduto\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BC86F0-3F11-5C68-14A9-2ABD9479F75A}|CadProduto\\CadProduto.csproj|d:\\felipe sa\\pwbe\\cadproduto\\cadproduto\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BC86F0-3F11-5C68-14A9-2ABD9479F75A}|CadProduto\\CadProduto.csproj|solutionrelative:cadproduto\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Felipe Sa\\PWBE\\CadProduto\\CadProduto\\Program.cs",
+              "RelativeDocumentMoniker": "CadProduto\\Program.cs",
+              "ToolTip": "D:\\Felipe Sa\\PWBE\\CadProduto\\CadProduto\\Program.cs",
+              "RelativeToolTip": "CadProduto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:23:18.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\Felipe Sa\\PWBE\\CadProduto\\CadProduto\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "CadProduto\\Models\\Produto.cs",
+              "ToolTip": "D:\\Felipe Sa\\PWBE\\CadProduto\\CadProduto\\Models\\Produto.cs",
+              "RelativeToolTip": "CadProduto\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:21:45.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Felipe Sa\\PWBE\\CadProduto\\CadProduto\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CadProduto\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\Felipe Sa\\PWBE\\CadProduto\\CadProduto\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "CadProduto\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:21:36.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Felipe Sa\\PWBE\\CadProduto\\CadProduto\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CadProduto\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Felipe Sa\\PWBE\\CadProduto\\CadProduto\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CadProduto\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T10:56:04.259Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

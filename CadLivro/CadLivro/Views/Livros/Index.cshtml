@@ -1,0 +1,35 @@
+﻿
+@model IEnumerable<CadLivro.Models.Livro>
+
+<h1>Lista de Livros</h1>
+
+<a asp-action="Create" class="btn btn-primary">
+    Cadastrar Livro
+</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Título</th>
+            <th>Autor</th>
+            <th>Preço</th>
+            <th>Categoria</th>
+            <th>Ano de Publicação</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var livro in Model)
+        {
+            <tr>
+                <td>@livro.Id</td>
+                <td>@livro.Titulo</td>
+                <td>@livro.Autor</td>
+                <td>@livro.Preco</td>
+                <td>@livro.Categoria</td>
+                <td>@livro.AnoPublicacao</td>
+            </tr>
+        }
+    </tbody>
+</table>
