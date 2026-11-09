@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CadLivro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e10261bd989f97e6278842a041cba65270fa96dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e4d24e945581a40f49e26d1714b76113a71c928")]
 [assembly: System.Reflection.AssemblyProductAttribute("CadLivro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CadLivro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

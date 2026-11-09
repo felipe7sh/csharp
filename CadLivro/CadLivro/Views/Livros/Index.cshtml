@@ -3,33 +3,74 @@
 
 <h1>Lista de Livros</h1>
 
-<a asp-action="Create" class="btn btn-primary">
-    Cadastrar Livro
-</a>
 
-<table class="table">
-    <thead>
-        <tr>
-            <th>Id</th>
-            <th>Título</th>
-            <th>Autor</th>
-            <th>Preço</th>
-            <th>Categoria</th>
-            <th>Ano de Publicação</th>
-        </tr>
-    </thead>
+<style>
+    body {
+        background-color: #f4f6fb;
+    }
 
-    <tbody>
-        @foreach (var livro in Model)
-        {
+    .table {
+        border-radius: 5px;
+    }
+    .btn {
+        border-radius: 7px;
+        padding: 7px 12px;
+        font-weight: 500;
+    }
+
+    .btn-primary {
+        background-color: #315cfd;
+        border: none;
+    }
+
+    .btn-primary:hover {
+        background-color: #2046d0;
+    }
+
+    .card {
+        background-color: white;
+        padding: 25px;
+        border-radius: 15px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+        border: 1px solid #e8edf5;
+    }
+</style>
+<div class="card">
+    <table id="table" class="table">
+        <thead>
             <tr>
-                <td>@livro.Id</td>
-                <td>@livro.Titulo</td>
-                <td>@livro.Autor</td>
-                <td>@livro.Preco</td>
-                <td>@livro.Categoria</td>
-                <td>@livro.AnoPublicacao</td>
+                <th>Id</th>
+                <th>Título</th>
+                <th>Autor</th>
+                <th>Preço</th>
+                <th>Categoria</th>
+                <th>Ano de Publicação</th>
+                <th>Ações</th>
             </tr>
-        }
-    </tbody>
-</table>
+        </thead>
+
+        <tbody>
+            @foreach (var livro in Model)
+            {
+                <tr>
+                    <td>@livro.Id</td>
+                    <td>@livro.Titulo</td>
+                    <td>@livro.Autor</td>
+                    <td>@livro.Preco</td>
+                    <td>@livro.Categoria</td>
+                    <td>@livro.AnoPublicacao</td>
+
+                    <td>
+                        <a class="btn btn-warning">Editar</a>
+                        <a class="btn btn-info">Detalhes</a>
+                        <a class="btn btn-danger">Excluir</a>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<a asp-action="Create" class="btn btn-primary">
+    Adicione um novo livro!
+</a>
