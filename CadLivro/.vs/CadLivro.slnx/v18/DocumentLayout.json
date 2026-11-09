@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Felipe Sa\\PWBE\\CadLivro\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13C9847C-F3D3-884D-BB34-4D01B94A435A}|CadLivro\\CadLivro.csproj|d:\\felipe sa\\pwbe\\cadlivro\\cadlivro\\views\\livros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13C9847C-F3D3-884D-BB34-4D01B94A435A}|CadLivro\\CadLivro.csproj|solutionrelative:cadlivro\\views\\livros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C9847C-F3D3-884D-BB34-4D01B94A435A}|CadLivro\\CadLivro.csproj|d:\\felipe sa\\pwbe\\cadlivro\\cadlivro\\views\\livros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13C9847C-F3D3-884D-BB34-4D01B94A435A}|CadLivro\\CadLivro.csproj|solutionrelative:cadlivro\\views\\livros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C9847C-F3D3-884D-BB34-4D01B94A435A}|CadLivro\\CadLivro.csproj|d:\\felipe sa\\pwbe\\cadlivro\\cadlivro\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C9847C-F3D3-884D-BB34-4D01B94A435A}|CadLivro\\CadLivro.csproj|solutionrelative:cadlivro\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Felipe Sa\\PWBE\\CadLivro\\CadLivro\\Views\\Livros\\Create.cshtml",
+              "RelativeDocumentMoniker": "CadLivro\\Views\\Livros\\Create.cshtml",
+              "ToolTip": "D:\\Felipe Sa\\PWBE\\CadLivro\\CadLivro\\Views\\Livros\\Create.cshtml",
+              "RelativeToolTip": "CadLivro\\Views\\Livros\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T11:54:33.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Felipe Sa\\PWBE\\CadLivro\\CadLivro\\Views\\Livros\\Index.cshtml",
+              "RelativeDocumentMoniker": "CadLivro\\Views\\Livros\\Index.cshtml",
+              "ToolTip": "D:\\Felipe Sa\\PWBE\\CadLivro\\CadLivro\\Views\\Livros\\Index.cshtml",
+              "RelativeToolTip": "CadLivro\\Views\\Livros\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T11:54:27.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "D:\\Felipe Sa\\PWBE\\CadLivro\\CadLivro\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "CadLivro\\Models\\Livro.cs",
+              "ToolTip": "D:\\Felipe Sa\\PWBE\\CadLivro\\CadLivro\\Models\\Livro.cs",
+              "RelativeToolTip": "CadLivro\\Models\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:42:55.131Z",
+              "EditorCaption": ""
             }
           ]
         }

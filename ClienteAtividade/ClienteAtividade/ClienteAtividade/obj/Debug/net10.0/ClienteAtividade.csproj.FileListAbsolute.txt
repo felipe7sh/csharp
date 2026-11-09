@@ -450,8 +450,6 @@ D:\Felipe Sa\PWBE\ClienteAtividade\ClienteAtividade\ClienteAtividade\obj\Debug\n
 D:\Felipe Sa\PWBE\ClienteAtividade\ClienteAtividade\ClienteAtividade\obj\Debug\net10.0\compressed\zmjtisygsm-{0}-muycvpuwrr-muycvpuwrr.gz
 D:\Felipe Sa\PWBE\ClienteAtividade\ClienteAtividade\ClienteAtividade\obj\Debug\net10.0\compressed\jck2bid27d-{0}-87fc7y1x7t-87fc7y1x7t.gz
 D:\Felipe Sa\PWBE\ClienteAtividade\ClienteAtividade\ClienteAtividade\obj\Debug\net10.0\compressed\e076qmxy5p-{0}-mlv21k5csn-mlv21k5csn.gz
-D:\Felipe Sa\PWBE\ClienteAtividade\ClienteAtividade\ClienteAtividade\obj\Debug\net10.0\compressed\wntf479lna-{0}-qjkn7oerjz-qjkn7oerjz.gz
-D:\Felipe Sa\PWBE\ClienteAtividade\ClienteAtividade\ClienteAtividade\obj\Debug\net10.0\compressed\2z99mqqn4y-{0}-qjkn7oerjz-qjkn7oerjz.gz
 D:\Felipe Sa\PWBE\ClienteAtividade\ClienteAtividade\ClienteAtividade\obj\Debug\net10.0\staticwebassets.build.json
 D:\Felipe Sa\PWBE\ClienteAtividade\ClienteAtividade\ClienteAtividade\obj\Debug\net10.0\staticwebassets.build.json.cache
 D:\Felipe Sa\PWBE\ClienteAtividade\ClienteAtividade\ClienteAtividade\obj\Debug\net10.0\staticwebassets.development.json
@@ -466,3 +464,5 @@ D:\Felipe Sa\PWBE\ClienteAtividade\ClienteAtividade\ClienteAtividade\obj\Debug\n
 D:\Felipe Sa\PWBE\ClienteAtividade\ClienteAtividade\ClienteAtividade\obj\Debug\net10.0\ref\ClienteAtividade.dll
 D:\Felipe Sa\PWBE\ClienteAtividade\ClienteAtividade\ClienteAtividade\bin\Debug\net10.0\System.Security.Cryptography.Pkcs.dll
 D:\Felipe Sa\PWBE\ClienteAtividade\ClienteAtividade\ClienteAtividade\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Security.Cryptography.Pkcs.dll
+D:\Felipe Sa\PWBE\ClienteAtividade\ClienteAtividade\ClienteAtividade\obj\Debug\net10.0\compressed\wntf479lna-{0}-qjkn7oerjz-qjkn7oerjz.gz
+D:\Felipe Sa\PWBE\ClienteAtividade\ClienteAtividade\ClienteAtividade\obj\Debug\net10.0\compressed\2z99mqqn4y-{0}-qjkn7oerjz-qjkn7oerjz.gz

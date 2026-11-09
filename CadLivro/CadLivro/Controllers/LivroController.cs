@@ -10,13 +10,11 @@ namespace CadLivro.Controllers
     {
         private readonly AppDbContext _context;
 
-        // Injeção do AppDbContext pelo construtor
         public LivrosController(AppDbContext context)
         {
             _context = context;
         }
 
-        // GET: Livros
         public IActionResult Index()
         {
             var livros = _context.Livros.ToList();
@@ -24,16 +22,13 @@ namespace CadLivro.Controllers
             return View(livros);
         }
 
-        // GET: Livros/Create
         [HttpGet]
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Livros/Create
         [HttpPost]
-        [ValidateAntiForgeryToken]
         public IActionResult Create(Livro livro)
         {
             if (ModelState.IsValid)
@@ -45,15 +40,6 @@ namespace CadLivro.Controllers
             }
 
             return View(livro);
-        }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel
-            {
-                RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier
-            });
         }
     }
 }

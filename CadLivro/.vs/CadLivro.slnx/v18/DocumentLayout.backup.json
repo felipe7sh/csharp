@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\Felipe Sa\\PWBE\\CadLivro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13C9847C-F3D3-884D-BB34-4D01B94A435A}|CadLivro\\CadLivro.csproj|d:\\felipe sa\\pwbe\\cadlivro\\cadlivro\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13C9847C-F3D3-884D-BB34-4D01B94A435A}|CadLivro\\CadLivro.csproj|solutionrelative:cadlivro\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13C9847C-F3D3-884D-BB34-4D01B94A435A}|CadLivro\\CadLivro.csproj|d:\\felipe sa\\pwbe\\cadlivro\\cadlivro\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13C9847C-F3D3-884D-BB34-4D01B94A435A}|CadLivro\\CadLivro.csproj|solutionrelative:cadlivro\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13C9847C-F3D3-884D-BB34-4D01B94A435A}|CadLivro\\CadLivro.csproj|d:\\felipe sa\\pwbe\\cadlivro\\cadlivro\\views\\livros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13C9847C-F3D3-884D-BB34-4D01B94A435A}|CadLivro\\CadLivro.csproj|solutionrelative:cadlivro\\views\\livros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{13C9847C-F3D3-884D-BB34-4D01B94A435A}|CadLivro\\CadLivro.csproj|d:\\felipe sa\\pwbe\\cadlivro\\cadlivro\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C9847C-F3D3-884D-BB34-4D01B94A435A}|CadLivro\\CadLivro.csproj|solutionrelative:cadlivro\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LivroController.cs",
-              "DocumentMoniker": "D:\\Felipe Sa\\PWBE\\CadLivro\\CadLivro\\Controllers\\LivroController.cs",
-              "RelativeDocumentMoniker": "CadLivro\\Controllers\\LivroController.cs",
-              "ToolTip": "D:\\Felipe Sa\\PWBE\\CadLivro\\CadLivro\\Controllers\\LivroController.cs",
-              "RelativeToolTip": "CadLivro\\Controllers\\LivroController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T13:48:15.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Felipe Sa\\PWBE\\CadLivro\\CadLivro\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "CadLivro\\Context\\AppDbContext.cs",
-              "ToolTip": "D:\\Felipe Sa\\PWBE\\CadLivro\\CadLivro\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "CadLivro\\Context\\AppDbContext.cs",
+              "Title": "Livro.cs",
+              "DocumentMoniker": "D:\\Felipe Sa\\PWBE\\CadLivro\\CadLivro\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "CadLivro\\Models\\Livro.cs",
+              "ToolTip": "D:\\Felipe Sa\\PWBE\\CadLivro\\CadLivro\\Models\\Livro.cs",
+              "RelativeToolTip": "CadLivro\\Models\\Livro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T13:48:15.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Felipe Sa\\PWBE\\CadLivro\\CadLivro\\Views\\Livros\\Index.cshtml",
-              "RelativeDocumentMoniker": "CadLivro\\Views\\Livros\\Index.cshtml",
-              "ToolTip": "D:\\Felipe Sa\\PWBE\\CadLivro\\CadLivro\\Views\\Livros\\Index.cshtml",
-              "RelativeToolTip": "CadLivro\\Views\\Livros\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-03T13:48:10.674Z",
+              "WhenOpened": "2026-11-09T11:42:55.131Z",
               "EditorCaption": ""
             }
           ]

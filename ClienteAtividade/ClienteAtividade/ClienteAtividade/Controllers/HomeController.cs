@@ -15,9 +15,9 @@ namespace ClienteAtividade.Controllers
             _context = context;
         }
 
-        public async Task<IActionResult> Index()
+        public IActionResult Index()
         {
-            var clientes = await _context.Clientes.ToListAsync();
+            var clientes = _context.Clientes.ToList();
 
             return View(clientes);
         }
@@ -29,14 +29,13 @@ namespace ClienteAtividade.Controllers
         }
 
         [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(Cliente cliente)
+        public IActionResult Create(Cliente cliente)
         {
             if (ModelState.IsValid)
             {
                 _context.Clientes.Add(cliente);
 
-                await _context.SaveChangesAsync();
+                _context.SaveChanges();
 
                 return RedirectToAction(nameof(Index));
             }

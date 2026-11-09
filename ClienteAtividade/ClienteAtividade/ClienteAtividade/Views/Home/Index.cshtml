@@ -4,11 +4,14 @@
     ViewData["Title"] = "Lista de Clientes";
 }
 
+<style>
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+</style>
 <h1>Clientes cadastrados</h1>
 
-<a asp-action="Create" class="btn btn-primary mb-3">
-    Novo Cliente
-</a>
+
 
 <table class="table table-bordered table-striped">
 
@@ -36,3 +39,6 @@
     </tbody>
 
 </table>
+<a asp-action="Create" class="btn btn-primary mb-3">
+    Novo Cliente
+</a>
