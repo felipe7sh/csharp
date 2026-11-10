@@ -1,0 +1,380 @@
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\appsettings.Development.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\appsettings.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\CadProdutos.staticwebassets.runtime.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\CadProdutos.staticwebassets.endpoints.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\CadProdutos.exe
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\CadProdutos.deps.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\CadProdutos.runtimeconfig.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\CadProdutos.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\CadProdutos.pdb
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\Azure.Core.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\Azure.Identity.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.Identity.Client.Broker.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.Identity.Client.NativeInterop.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\System.ClientModel.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\System.Memory.Data.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\linux-x64\native\libmsalruntime.so
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\osx-arm64\native\msalruntime_arm64.dylib
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\osx-x64\native\msalruntime.dylib
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.csproj.AssemblyReference.cache
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.AssemblyInfoInputs.cache
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.AssemblyInfo.cs
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.csproj.CoreCompileInputs.cache
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.RazorAssemblyInfo.cache
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.RazorAssemblyInfo.cs
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\scopedcss\bundle\CadProdutos.styles.css
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\scopedcss\projectbundle\CadProdutos.bundle.scp.css
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\muli27fd09-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\hxs7koi17j-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\xo03xvc1nb-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\swxoqa8svg-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\pkyjpuye08-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\dlyzh973hf-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\2t6d6b0cny-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\k7cf40uuxc-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\d7d5wy4f0l-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\p1uirkqsx3-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\npwxsovdw8-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\hky5iwymyd-{0}-ub07r2b239-ub07r2b239.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\kc2r071dyg-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\s3ab6v8t0x-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\c94ffqfcbu-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\zbxbsbyra9-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\tpqe0ytsui-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\wmxz0vqjn2-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\yc12adnx01-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\5a8n4id2rt-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\02w5l4ddl0-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\j57t27p2s8-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\a20qtvkt61-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\jn5euid9bi-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\5h0544vk9a-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\yixm0qrhap-{0}-06098lyss8-06098lyss8.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\drz2ki6pyh-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\w47hlrtyy7-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\gknmd2pnfx-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\0h5wl2uzuw-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\ackd6ep8li-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\9mnesyv1ca-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\5j4qma98mu-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\m4evkcu96w-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\tlmjwcmfar-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\thwbvgfyh6-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\sdqdja86kb-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\kpala4ox8p-{0}-493y06b0oq-493y06b0oq.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\rphvmt3sbi-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\xbfvgayibu-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\71u38cf0vs-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\6gskoyj9an-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\j0arkc728u-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\7ri94an6ss-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\28woshbtso-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\u4bhov2pzc-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\awk8eu6dxe-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\b52c034x9u-{0}-47otxtyo56-47otxtyo56.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\5id6phqqba-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\wv9a32mj19-{0}-356vix0kms-356vix0kms.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\6invyc7fqj-{0}-83jwlth58m-83jwlth58m.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\vp5b2y39go-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\66mzq3n6ly-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\4rddare6ib-{0}-ag7o75518u-ag7o75518u.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\yfb91ko9wd-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\cjaezx3dk7-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\spnwjrgbr2-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\fajdrp3atu-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\a11kavhfeo-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\yzjv1xh2ht-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\69mbqf5o3p-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\tkk6mt324r-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\uus55h0va7-{0}-28b2nd7ecw-28b2nd7ecw.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\e9bg9ykkdv-{0}-28b2nd7ecw-28b2nd7ecw.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\staticwebassets.build.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\staticwebassets.development.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\swae.build.ex.cache
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdu.9FC96075.Up2Date
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\refint\CadProdutos.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.pdb
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.genruntimeconfig.cache
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend\CadProdutos\CadProdutos\obj\Debug\net10.0\ref\CadProdutos.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\appsettings.Development.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\appsettings.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\CadProdutos.staticwebassets.endpoints.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\CadProdutos.staticwebassets.runtime.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\CadProdutos.exe
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\CadProdutos.deps.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\CadProdutos.runtimeconfig.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\CadProdutos.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\CadProdutos.pdb
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Azure.Core.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Azure.Identity.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Humanizer.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.Identity.Client.Broker.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.Identity.Client.NativeInterop.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\System.ClientModel.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\System.CodeDom.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\System.Memory.Data.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\linux-x64\native\libmsalruntime.so
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\osx-arm64\native\msalruntime_arm64.dylib
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\osx-x64\native\msalruntime.dylib
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.csproj.AssemblyReference.cache
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.AssemblyInfoInputs.cache
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.AssemblyInfo.cs
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.csproj.CoreCompileInputs.cache
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.RazorAssemblyInfo.cache
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.RazorAssemblyInfo.cs
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\scopedcss\bundle\CadProdutos.styles.css
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\scopedcss\projectbundle\CadProdutos.bundle.scp.css
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\muli27fd09-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\hxs7koi17j-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\xo03xvc1nb-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\swxoqa8svg-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\pkyjpuye08-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\dlyzh973hf-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\2t6d6b0cny-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\k7cf40uuxc-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\d7d5wy4f0l-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\p1uirkqsx3-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\npwxsovdw8-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\hky5iwymyd-{0}-ub07r2b239-ub07r2b239.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\kc2r071dyg-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\s3ab6v8t0x-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\c94ffqfcbu-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\zbxbsbyra9-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\tpqe0ytsui-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\wmxz0vqjn2-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\yc12adnx01-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\5a8n4id2rt-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\02w5l4ddl0-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\j57t27p2s8-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\a20qtvkt61-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\jn5euid9bi-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\5h0544vk9a-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\yixm0qrhap-{0}-06098lyss8-06098lyss8.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\drz2ki6pyh-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\w47hlrtyy7-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\gknmd2pnfx-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\0h5wl2uzuw-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\ackd6ep8li-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\9mnesyv1ca-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\5j4qma98mu-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\m4evkcu96w-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\tlmjwcmfar-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\thwbvgfyh6-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\sdqdja86kb-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\kpala4ox8p-{0}-493y06b0oq-493y06b0oq.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\rphvmt3sbi-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\xbfvgayibu-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\71u38cf0vs-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\6gskoyj9an-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\j0arkc728u-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\7ri94an6ss-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\28woshbtso-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\u4bhov2pzc-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\awk8eu6dxe-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\b52c034x9u-{0}-47otxtyo56-47otxtyo56.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\5id6phqqba-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\wv9a32mj19-{0}-356vix0kms-356vix0kms.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\6invyc7fqj-{0}-83jwlth58m-83jwlth58m.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\vp5b2y39go-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\66mzq3n6ly-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\4rddare6ib-{0}-ag7o75518u-ag7o75518u.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\yfb91ko9wd-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\cjaezx3dk7-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\spnwjrgbr2-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\fajdrp3atu-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\a11kavhfeo-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\yzjv1xh2ht-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\69mbqf5o3p-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\tkk6mt324r-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\uus55h0va7-{0}-28b2nd7ecw-28b2nd7ecw.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\compressed\e9bg9ykkdv-{0}-28b2nd7ecw-28b2nd7ecw.gz
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\staticwebassets.build.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\staticwebassets.development.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\swae.build.ex.cache
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdu.9FC96075.Up2Date
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\refint\CadProdutos.dll
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.pdb
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\CadProdutos.genruntimeconfig.cache
+D:\OneDrive\Aulas\(SENAI) Programação Web Backend 1\cap11-CadProdutos\CadProdutos\obj\Debug\net10.0\ref\CadProdutos.dll

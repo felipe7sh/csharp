@@ -1,0 +1,37 @@
+﻿@model Produto
+
+@{
+    ViewData["Title"] = "Cadastrar Produto";
+}
+
+<h2>Cadastrar Novo Produto</h2>
+
+<form asp-action="Create">
+    <div>
+        <label asp-for="Nome"></label><br />
+        <input asp-for="Nome" />
+        <span asp-validation-for="Nome" style="color:red"></span>
+    </div>
+    <br />
+    <div>
+        <label asp-for="Qtde"></label><br />
+        <input asp-for="Qtde" />
+        <span asp-validation-for="Qtde" style="color:red"></span>
+    </div>
+    <br />
+    <div>
+        <label asp-for="Valor"></label><br />
+        <input asp-for="Valor" />
+        <span asp-validation-for="Valor" style="color:red"></span>
+    </div>
+    <br />
+    <div>
+        <input type="submit" class="btn btn-primary" value="Salvar" />
+    </div>
+</form>
+
+<p>
+    <a asp-action="Index" class="btn btn-secondary">Voltar</a>
+</p>
+
+

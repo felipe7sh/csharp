@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Produto>
+
+@{
+    ViewData["Title"] = "Lista de Produtos";
+}
+
+<h2>Lista de Produtos</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Novo Produto</a>
+</p>
+
+<table border="1" cellpadding="5" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Quantidade</th>
+            <th>Valor</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Nome</td>
+                <td>@item.Qtde</td>
+                <td>@item.Valor.ToString("C")</td> @*formata o valor como moeda*@
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
